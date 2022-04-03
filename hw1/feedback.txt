@@ -1,0 +1,3 @@
+grade: 99/100
+
+(-1) 5. Right… but the weight is squared and therefore the matrix diagonal is w and not the square root of w (as in the ML course :-))
